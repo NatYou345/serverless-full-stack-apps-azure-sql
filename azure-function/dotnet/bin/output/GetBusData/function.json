@@ -1,0 +1,16 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.1.1",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "timerTrigger",
+      "schedule": "*/15 * * * * *",
+      "useMonitor": true,
+      "runOnStartup": false,
+      "name": "timerInfo"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/GetBusData.dll",
+  "entryPoint": "GetBusData.GetBusDataFunction.GetBusData"
+}
