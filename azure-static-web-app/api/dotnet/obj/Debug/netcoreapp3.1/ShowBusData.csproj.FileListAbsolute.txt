@@ -1,0 +1,5 @@
+/workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/obj/Debug/netcoreapp3.1/ShowBusData.csproj.AssemblyReference.cache
+/workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/obj/Debug/netcoreapp3.1/ShowBusData.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/obj/Debug/netcoreapp3.1/ShowBusData.AssemblyInfoInputs.cache
+/workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/obj/Debug/netcoreapp3.1/ShowBusData.AssemblyInfo.cs
+/workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/obj/Debug/netcoreapp3.1/ShowBusData.csproj.CoreCompileInputs.cache

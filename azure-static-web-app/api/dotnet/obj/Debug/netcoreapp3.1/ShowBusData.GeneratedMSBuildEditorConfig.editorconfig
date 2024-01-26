@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ShowBusData
+build_property.ProjectDir = /workspaces/serverless-full-stack-apps-azure-sql/azure-static-web-app/api/dotnet/
